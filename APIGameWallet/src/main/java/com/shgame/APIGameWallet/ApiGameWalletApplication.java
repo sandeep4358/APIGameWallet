@@ -8,6 +8,7 @@ public class ApiGameWalletApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ApiGameWalletApplication.class, args);
+		
 	}
 
 }
